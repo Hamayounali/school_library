@@ -6,7 +6,7 @@ class Person < Nameable
     @age = age
     @name = name
     @parent_permission = parent_permission
-    @corrector = Nameable.new
+    super
   end
 
   def correct_name
