@@ -8,4 +8,3 @@ class Book
     @rentals = []
   end
 end
-  

@@ -7,6 +7,7 @@ class Person < Nameable
     @name = name
     @parent_permission = parent_permission
     @rentals = []
+    super
   end
 
   def correct_name
