@@ -5,6 +5,8 @@ This application is used to record what books are in the library and who borrows
 - Add new students or teachers.
 - Add new books.
 - Save records of who borrowed a given book and when.
+<img width="337" alt="Capture" src="https://user-images.githubusercontent.com/22744775/194304819-5b2faa73-faa5-463d-94bd-40c7b91efb49.PNG">
+
 
 ## Getting Started 🙌
 
