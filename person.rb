@@ -1,6 +1,4 @@
-require './nameable'
-
-class Person < Nameable
+class Person
   attr_accessor :id, :name, :age, :type
   attr_reader :rentals
 
