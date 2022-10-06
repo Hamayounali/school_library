@@ -11,7 +11,6 @@ class Person < Nameable
     @parent_permission = parent_permission
     @rentals = []
     @type = type
-    super
   end
 
   def correct_name
