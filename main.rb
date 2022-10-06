@@ -1,6 +1,6 @@
 #!/usr/bin/env ruby
 
-require './app.rb'
+require './app'
 
 def menu
   puts "\nPlease choose an option by entering a number:"

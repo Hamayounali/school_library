@@ -3,7 +3,7 @@ require './student'
 require './teacher'
 require './rental'
 
-puts " Welcome to School Library App!"
+puts 'Welcome to School Library App!'
 
 # Arrays to store data
 @book_arr = []
@@ -99,8 +99,7 @@ end
 
 def create_a_rental
   puts 'Select a book from the following list by number'
-  @book_arr.each_with_index { |book, idx| 
-    puts "#{idx}) Title: \"#{book.title}\" Author: #{book.author}" }
+  @book_arr.each_with_index { |book, idx| puts "#{idx}) Title: \"#{book.title}\" Author: #{book.author}" }
   book_index = gets.chomp.to_i
   puts 'Select a person from the following list by number (not id)'
   @person_arr.each_with_index do |person, idx|
