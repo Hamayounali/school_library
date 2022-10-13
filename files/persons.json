@@ -1,2 +1,4 @@
 {"class":"Student","@id":11,"@name":"Ali","@age":23,"@rentals":[],"@parent_permission":true,"@classroom":null}
 {"class":"Student","@id":18,"@name":"Asad","@age":23,"@rentals":[],"@parent_permission":true,"@classroom":null}
+{"class":"Student","@id":60,"@name":"Kali","@age":23,"@rentals":[],"@parent_permission":true,"@classroom":null}
+{"class":"Student","@id":1,"@name":"Ali","@age":32,"@rentals":[],"@parent_permission":true,"@classroom":null}
