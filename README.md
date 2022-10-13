@@ -2,6 +2,8 @@
 
 This application is used to record what books are in the library and who borrows them. The app is developed by Ruby and can be used to to do the below activiteis:
 
+<img width="323" alt="Capture" src="https://user-images.githubusercontent.com/22744775/195506577-3da1421e-2b59-4d4d-a794-26e519a13a72.PNG">
+
 - Add new students or teachers.
 - Add new books.
 - Save records of who borrowed a given book and when.
