@@ -23,8 +23,9 @@ class ManageRentals
     @persons.each do |person|
       puts "No rentals found for person with id #{id}" if person.id == id && person.rentals.empty?
       next unless person.id == id
+
       person.rentals.each do |rental|
-        puts "-----------------------------------------"
+        puts '-----------------------------------------'
         puts "Date: #{rental.date}, Book: \"#{rental.book.title}\" by #{rental.book.author} "
       end
       return true

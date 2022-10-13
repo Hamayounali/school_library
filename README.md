@@ -23,6 +23,12 @@ To get a local copy up and running follow these simple example steps.
 - Twitter: [@hamayounAli6](https://twitter.com/hamayounAli6)
 - LinkedIn: [Humayoon Ali](https://www.linkedin.com/in/humayoon-ali-663ba2239)
 
+👤 **Collins Musoko**
+
+- GitHub: [@Github](https://github.com/Carshy)
+- Twitter: [@Twitter](https://twitter.com/CarshyCollins)
+- Linkedin: [Linkedin](https://www.linkedin.com/in/collins-musoko-864881120/)
+
 ## 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome!

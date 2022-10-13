@@ -12,16 +12,16 @@ class ManageBooks
   end
 
   def list_books(show_index: false)
-    if(@books.empty?)
-      puts "There is no book to dispaly"
+    if @books.empty?
+      puts 'There is no book to dispaly'
     else
-    puts "-----------------------------------------"
-    @books.each_with_index do |book, index|
-      result = "Title: \"#{book.title}\", Author: #{book.author}"
-      result = " #{index}) " + result if show_index
-      puts result
-      puts "-----------------------------------------"
-    end
+      puts '-----------------------------------------'
+      @books.each_with_index do |book, index|
+        result = "Title: \"#{book.title}\", Author: #{book.author}"
+        result = " #{index}) " + result if show_index
+        puts result
+        puts '-----------------------------------------'
+      end
     end
   end
 

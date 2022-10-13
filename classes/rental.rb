@@ -27,6 +27,7 @@ class Rental
       @date = val if var == 'date'
       add_person_by_id(persons, val) if var == 'person'
       next unless var == 'book'
+
       books.each do |book|
         add_book(book) if book.title == val
       end
